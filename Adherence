@@ -1,24 +1,24 @@
-# 📊 Adherence Dashboard
+#📊 Adherence Dashboard
 
-## 🎯 Objective
+##🎯 Objective
 Track real-time agent and supervisor adherence using IEX data provided by Real Time Analysts.
 
-## 📈 KPIs & Visuals
+##📈 KPIs & Visuals
 - Adherence % by agent, team, and supervisor
 - Auxiliary states visualization
 - Proactive adherence scorecard
 
-## 🛠 Tools & Techniques
+##🛠 Tools & Techniques
 - Power BI (slicers, bookmarks, DAX)
 - IEX data integration (minutes format)
 - Visualization breakdowns by hierarchy
 
-## 💡 Highlights
+##💡 Highlights
 - Designed for real-time coaching and performance optimization
 - Replaces manual spreadsheets
 - Quick identification of non-adherence trends
 
-## 📊 Preview
+##📊 Preview
 ![Dashboard Screenshot](preview.png)
 
-> 🔒 Data is anonymized for demonstration purposes.
+>🔒 Data is anonymized for demonstration purposes.
