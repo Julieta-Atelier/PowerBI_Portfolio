@@ -3,7 +3,7 @@
 Welcome to my Power BI portfolio!  
 I'm a Reporting & BI Analyst passionate about building data-driven solutions for global operations.
 
-This repository contains a curated selection of dashboards I’ve developed and automated for top-tier international clients, including PayPal, eBay, Lexmark, Twilio, and DiDi, as part of my work at Foundever.
+This repository contains a curated selection of dashboards I’ve developed and automated for top-tier international clients, including PayPal, eBay, Lexmark, Twilio, and DiDi, as part of my work.
 
 Each report was designed to uncover insights, monitor KPIs, and optimize decision-making in dynamic, high-scale environments.
 
