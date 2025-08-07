@@ -1,144 +1,130 @@
+# 🚀 Power BI Portfolio – Julieta Blanco Rivas
 
-⸻
+👋 Welcome to my Power BI portfolio, where you’ll find impactful dashboards created for real business challenges across global operations. I specialize in automating data reporting, building dashboards from scratch, and providing insights that drive operational decisions.
 
-📊 Power BI Portfolio – Julieta Blanco Rivas
+This repository showcases the dashboards I’ve developed at Foundever, working with clients such as PayPal, eBay, Lexmark, DiDi, Twilio, and more.
 
-Welcome to my Power BI portfolio!
-I’m a Reporting & BI Analyst passionate about building data-driven solutions for global operations.
+---
 
-This repository contains a curated selection of dashboards I’ve developed and automated for top-tier international clients, including PayPal, eBay, Lexmark, Twilio, and DiDi, as part of my work at Foundever.
+### 📌 What You’ll Find Here
 
-Each report was designed to uncover insights, monitor KPIs, and optimize decision-making in dynamic, high-scale environments.
+| 📊 Dashboard | 💡 Focus |
+| :--- | :--- |
+| **Adherence** | Real-time performance & adherence tracking |
+| **Contact Reasons** | Breakdown of contact drivers & channel insights |
+| **Absenteeism, Lost Hours & Attendance** | HR & productivity reporting with proactive alerts |
+| **Biweekly Report** | Performance trends across 15-day cycles |
+| **Birthday & Tenure Scorecard** | Team recognition and retention tracking |
 
-⸻
+---
 
-📂 Projects Included
+### 🧠 Tech Stack & Tools
 
-Dashboard	Description
-Adherence	Provides detailed daily and weekly adherence trends by campaign, broken down by agent and supervisor using IEX data. Includes a proactive scorecard and visualizations for auxiliary states.
-Contact Reasons	Built using feedback from ops team. Tracks top contact reasons by 30-min intervals, visualized via heatmaps. Includes contact flow, channels, and breakdown by reason and sub-reason.
-Absenteeism, Lost Hours & Attendance	Replaces Excel reports. Visualizes scheduled hours, absenteeism %, planned/unplanned lost hours, and includes a VBM (Visual-Based Monitoring) alarm system.
-Biweekly Report	A 15-day performance dashboard for multiple specializations within accounts. Shows goal compliance and trends over biweekly periods.
-Birthday & Tenure Scorecard	Displays tenure and birthday metrics using master roster data. Highlights employee milestones and team experience distribution.
+* **Power BI** – End-to-end report design & automation
+* **SQL** – Advanced queries & data modeling
+* **Excel** – ETL logic, advanced formulas, macros
+* **Access** – Database management & integration
+* **Python** – (Pandas, NumPy) for data cleaning & automation
 
+---
 
-⸻
+### 📂 Dashboards & Descriptions
 
-🛠 Tools & Tech Stack
-	•	Power BI
-	•	SQL
-	•	Excel
-	•	Access
-	•	Python (for automation and preprocessing)
+---
 
-⸻
+### 📌 Adherence Dashboard
 
-📫 Contact
-	•	LinkedIn
-	•	Email: clausandjuli@gmail.com
+**🎯 Objective:** Visualize daily and weekly adherence by campaign, using IEX real-time data.
 
-⸻
+**📈 KPIs Included:**
+* Adherence % by day, agent, and supervisor
+* Auxiliary states visualization
+* Proactive scorecard highlighting underperformance
 
-📁 Project-Level README.md Samples
+**🔥 Highlights:**
+* Replaces manual tracking
+* Enables rapid performance coaching
+* Intuitive design for operations managers
 
-📌 Adherence Dashboard
+---
 
-Objective:
-Visualize adherence metrics and team performance using real-time scheduling data from IEX.
+### 📌 Contact Reasons Dashboard
 
-KPIs Included:
-	•	Daily/weekly adherence
-	•	Agent and supervisor breakdown
-	•	Auxiliary state visuals
+**🎯 Objective:** Understand top contact drivers to optimize staffing and user experience.
 
-Tools Used:
-Power BI, SQL, Excel
+**📈 KPIs Included:**
+* Top contact reasons by 30-min interval
+* Weekly contact volume
+* Flow of reasons: First > Second > Third > New > Sub Reason
+* Contact breakdown by channel (Live Chat, Email, Help Center, etc.)
 
-Highlights:
-	•	Scorecard view for targeted coaching
-	•	Automates SLA tracking
-	•	Supports daily operational review meetings
+**🔥 Highlights:**
+* Built using operations feedback
+* Includes interactive heatmaps
+* Supports CX initiatives and root cause analysis
 
-⸻
+---
 
-📌 Contact Reasons Dashboard
+### 📌 Absenteeism, Lost Hours & Attendance
 
-Objective:
-Identify contact drivers and peak inquiry times to inform staffing and customer experience strategies.
+**🎯 Objective:** Replace Excel reports with a centralized BI solution for HR tracking.
 
-KPIs Included:
-	•	Top contact reasons by 30-min intervals
-	•	Total tickets, sub-reason breakdown
-	•	Contact volume by channel
+**📈 KPIs Included:**
+* Scheduled vs. worked hours
+* Absenteeism %, lost hours %
+* Planned vs. unplanned absenteeism
+* Coach/agent-level visualizations
 
-Tools Used:
-Power BI, Excel
+**🔥 Highlights:**
+* Includes VBM alarm system (Success, Caution, Warning, Insufficient)
+* Mirrors original Excel matrix views with filters by coach, date, and agent
+* Proactive absenteeism goal tracking (e.g., 10.5% daily target)
 
-Highlights:
-	•	Interactive heatmaps by hour and reason
-	•	Full contact flow visualization
-	•	Proactive channel segmentation (Live Chat, Email, Help Center, etc.)
+**⚠️ Notes:**
+* Planned lost hours planner remains blank until codes are formally assigned.
+* Separate raw data loads for schedules and LILO.
 
-⸻
+---
 
-📌 Absenteeism, Lost Hours & Attendance
+### 📌 Biweekly Report
 
-Objective:
-Centralize HR-related KPIs into one automated dashboard that replaces manual Excel tracking.
+**🎯 Objective:** Visualize SLA goal achievement across biweekly cycles and specializations.
 
-KPIs Included:
-	•	Scheduled hours vs. worked hours
-	•	Absenteeism %, lost hours %, planned vs. unplanned
-	•	Coach and agent-level metrics
+**📈 KPIs Included:**
+* 15-day performance tracking
+* Goal compliance by specialization
+* SLA improvement trends
 
-Tools Used:
-Power BI, Access, Excel
+**🔥 Highlights:**
+* Helps clients monitor short-term progress
+* Encourages continuous performance review
+* Client-ready formatting for presentation
 
-Highlights:
-	•	VBM alarm system with success/warning thresholds
-	•	Matrix views for coach, agent, and date
-	•	Tracks absenteeism goal compliance (e.g., 10.5% daily target)
+---
 
-⸻
+### 📌 Birthday & Tenure Scorecard
 
-📌 Biweekly Report
+**🎯 Objective:** Recognize team milestones and evaluate workforce experience.
 
-Objective:
-Track goal attainment every 15 days across various specializations.
+**📈 KPIs Included:**
+* Upcoming birthdays
+* Tenure distribution by team and supervisor
+* Retention and longevity indicators
 
-KPIs Included:
-	•	Performance indicators by skill
-	•	SLA compliance
-	•	Account-level trends
+**🔥 Highlights:**
+* Based on master roster with hire & birth dates
+* Encourages employee engagement
+* Valuable for HR and team leaders
 
-Tools Used:
-Power BI, Excel
+---
 
-Highlights:
-	•	Designed for leadership visibility
-	•	Compares current and prior biweekly cycles
-	•	Encourages continuous performance improvement
+### 📫 Connect with Me
 
-⸻
+* 💼 **LinkedIn** – [Julieta Blanco Rivas](https://www.linkedin.com/in/julieta-blanco-rivas/)
+* 📧 **Email:** [clausandjuli@gmail.com](mailto:clausandjuli@gmail.com)
 
-📌 Birthday & Tenure Scorecard
+---
 
-Objective:
-Celebrate employee milestones and analyze tenure trends using HR roster data.
+> 🔒 All dashboards are based on anonymized or sample datasets and do not contain sensitive data.
 
-KPIs Included:
-	•	Upcoming birthdays
-	•	Tenure breakdown by campaign and supervisor
-	•	Retention indicators
-
-Tools Used:
-Power BI, Excel
-
-Highlights:
-	•	Encourages engagement and recognition
-	•	Visualizes workforce experience distribution
-	•	Supports HR-driven initiatives for retention
-
-⸻
-
-All dashboards use anonymized or sample datasets for demo purposes.
+✨ Thanks for visiting! Don’t forget to ⭐ this repo if you find it inspiring.
