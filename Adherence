@@ -1,0 +1,17 @@
+📌 Adherence Dashboard
+
+Objective:
+Visualize adherence metrics and team performance using real-time scheduling data from IEX.
+
+KPIs Included:
+	•	Daily/weekly adherence
+	•	Agent and supervisor breakdown
+	•	Auxiliary state visuals
+
+Tools Used:
+Power BI, SQL, Excel
+
+Highlights:
+	•	Scorecard view for targeted coaching
+	•	Automates SLA tracking
+	•	Supports daily operational review meetingsture reference (mock data, non-confidential).
