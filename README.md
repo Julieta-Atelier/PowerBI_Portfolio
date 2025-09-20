@@ -2,7 +2,7 @@
 
 👋 Welcome to my Power BI portfolio, where you’ll find impactful dashboards created for real business challenges across global operations. I specialize in automating data reporting, building dashboards from scratch, and providing insights that drive operational decisions.
 
-This repository showcases the dashboards I’ve developed at Foundever, working with clients such as PayPal, eBay, Lexmark, DiDi, Twilio, and more.
+This repository showcases the dashboards I’ve developed working with global clients.
 
 ---
 
